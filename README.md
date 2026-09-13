@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashini Umesha
 
-<!--
-**Ashi1104/Ashi1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First - Year BSc. in Information Technology Student
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a first-year Information Technology student with a strong interest in technology and software development. I am currently building my programming and problem-solving skills through university studies and practical projects.
+
+## 🌱 Currently Learning
+
+-Java
+-HTML & CSS
+-Data Structures 
+-GitHub
+
+## 🛠️ Skills
+
+-Java
+-HTML
+-Microsoft Word
+-Microsoft Exel
+-Microsoft PowerPoint
+
+## 📚 University Projects 
+
+-**FocusMate** - Student Study Planner
+-**Hospital Management System** - System Analysis and Design
+-**Library Management System** - 
+
+## 🎯 My Goals 
+-Improve my programming skills
+-Build more practical IT projects
+-Learn GitHub
+-Develop my problem-solving skills
+-Gain practical experience in the IT field
+
+## 📫 Connect With Me
+
+-LinkedIn: [My LinkedIn Profile] (https://www.linkedin.com/in/ashini-ekanayaka-70aa093a4?)
+
+## ⭐ Thank You
+
+Thank you for visiting my GitHub profile!
