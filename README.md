@@ -8,35 +8,35 @@ I am a first-year Information Technology student with a strong interest in techn
 
 ## 🌱 Currently Learning
 
--Java
--HTML & CSS
--Data Structures 
--GitHub
+- Java
+- HTML & CSS
+- Data Structures 
+- GitHub
 
 ## 🛠️ Skills
 
--Java
--HTML
--Microsoft Word
--Microsoft Exel
--Microsoft PowerPoint
+- Java
+- HTML
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
 
 ## 📚 University Projects 
 
--**FocusMate** - Student Study Planner
--**Hospital Management System** - System Analysis and Design
--**Library Management System** - 
+- **FocusMate** - Student Study Planner
+- **Hospital Management System** - System Analysis and Design
+- **Library Management System** - Fundamentals of Programming 
 
 ## 🎯 My Goals 
--Improve my programming skills
--Build more practical IT projects
--Learn GitHub
--Develop my problem-solving skills
--Gain practical experience in the IT field
+- Improve my programming skills
+- Build more practical IT projects
+- Learn GitHub
+- Develop my problem-solving skills
+- Gain practical experience in the IT field
 
 ## 📫 Connect With Me
 
--LinkedIn: [My LinkedIn Profile] (https://www.linkedin.com/in/ashini-ekanayaka-70aa093a4?)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ashini-ekanayaka-70aa093a4?)
 
 ## ⭐ Thank You
 
