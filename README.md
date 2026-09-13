@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashini Umesha
+# 👋 Hi, I'm Ashini Ekanayaka
 
 🎓 First - Year BSc. in Information Technology Student
 
