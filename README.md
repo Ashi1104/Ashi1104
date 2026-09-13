@@ -16,7 +16,9 @@ I am a first-year Information Technology student with a strong interest in techn
 ## 🛠️ Skills
 
 - Java
-- HTML
+- HTML & CSS
+- GitHub
+- MYSQL
 - Microsoft Word
 - Microsoft Excel
 - Microsoft PowerPoint
